@@ -1,0 +1,177 @@
+body {
+    
+}
+
+.navbuttons {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #212244;
+
+
+}
+
+.buttonlayout {
+    background-color: transparent;
+    border: none;
+    width: 48px;
+    height: 24px;
+    top: 39px;
+    left: 640px;
+    padding: 10px;
+
+
+}
+
+.navbar {
+    width: 1439px;
+    height: 40px;
+    top: 31px;
+    left: 253px;
+    background-color: #fefbfa;
+   
+
+}
+
+.searchbox {
+    border: none;
+    background-color: transparent;
+    width: 40vw;
+    height: 40px;
+}
+
+.search-div>input {
+    border: none;
+    background-color: transparent;
+
+    width: 222px;
+    height: 40px;
+    top: 31px;
+    left: 1288px;
+    border: 1px;
+
+}
+
+::placeholder {
+    font-size: 14px;
+    color: rgb(153, 153, 153);
+}
+
+.navsign {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    border: none;
+    background-color: transparent;
+}
+
+.navnot {
+    width: 23.913043975830078px;
+    height: 25px;
+    top: 38px;
+    left: 1535px;
+    border: 1px;
+
+
+}
+
+.cardlin1 {
+    width: 229px;
+    height: 46px;
+    top: 248px;
+    left: 255px;
+    border-radius: 23px;
+    border: 1px solid #FDECEC;
+    align-items: center;
+
+}
+
+.cardline1 {
+    background: #FDECEC;
+    width: 153px;
+    height: 16px;
+    top: 263px;
+    left: 276px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F94A3D;
+    border-radius: 5%;
+
+
+}
+
+.cardimg1 {
+    width: 27.57388784223916px;
+    height: 31.20535553812336px;
+    top: 250px;
+    left: 458.6722412109375px;
+    
+    border-radius: 50%;
+
+}
+
+.section1 {
+    /* border: 2px solid black; */
+}
+
+.secimg1 {
+
+    /* border: 2px solid black; */
+}
+
+.sec1 {
+    /* border: 2px solid black; */
+
+}
+
+.line2 {
+    width: 524px;
+    height: 210px;
+    top: 304px;
+    left: 254px;
+    color: #212244;
+    font-family: Poppins;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.line3 {
+    width: 524px;
+    height: 210px;
+    top: 304px;
+    left: 254px;
+    color: #F94A3D;
+    font-family: Poppins;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.secbutton{
+    border-radius: 5px;
+    background-color:  #F94A3D;
+    color: #F6F6F6;
+    border: none;
+}
+.textcl{
+    height: 300px;
+    width: 300px;
+    inline-size: 300px;
+}
